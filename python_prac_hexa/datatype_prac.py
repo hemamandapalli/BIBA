@@ -1,0 +1,23 @@
+#int
+a=1
+b=-22
+print(type(a))
+print(type(b))
+#binary form
+a=0B111
+print(type(a))
+#bool
+a=True
+b=False
+print(type(a))
+#float
+a=2.2
+print(type(a))
+#complex
+a=3+4j
+print(type(a))
+print(a.real)
+print(a.imag)
+#string
+a="hema"
+print(a)
